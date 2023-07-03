@@ -1,0 +1,17 @@
+h1 {
+    color: blue
+    
+}
+img {
+    display: block;
+    width: 200px;
+}
+
+button {
+    background-color: black;
+    color: aliceblue;
+    padding: 8px;
+    font-size: 1em;
+    text-transform: uppercase;
+    margin: 8px;
+}
